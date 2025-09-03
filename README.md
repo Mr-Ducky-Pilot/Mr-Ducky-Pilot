@@ -60,25 +60,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mr-ducky-pilot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" width="48%" />
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🤖 AI Meeting Assistant (ISRO)
-
-*Real-time transcription & AI-powered meeting automation using Llama 3.3 70B & Whisper Large v3*
-
-### 🩻 Medical Imaging AI (ISRO) 
-
-*X-Ray bone fracture detection with high accuracy using CNN & entropy-based validation*
-
-### 📱 YellowShuttl (Blink42)
-
-*Fleet management serving 600+ daily users with 68% reduction in wait times*
-
-### 🧠 In-memoria (Blink42)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pi22by7&repo=In-Memoria&theme=tokyonight&hide_border=true)](https://github.com/pi22by7/In-Memoria)
-*Persistent memory for AI coding assistants via MCP - Solving session amnesia for coding agents*
 
 </div>
 
