@@ -1,7 +1,7 @@
-# Hi there, I'm Omprakash Jat (Mr. Duck) 🦆
+# Hi there, I'm Omprakash Jat. You can call me Mr. Duck
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Developer+%40+ISRO+🚀;Startup+Founder+%40+Blink42+💡;Building+the+future+with+AI!;Professional+Quacker+🦆" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Developer+%40+ISRO+🚀;Startup+Founder+%40+Blink42+💡;Building+the+future+with+AI!;Professional+Quacker+🦆" alt="" />
 </div>
 
 <div align="center">
@@ -65,20 +65,20 @@
 <div align="center">
 
 ### 🤖 AI Meeting Assistant (ISRO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-ducky-pilot&repo=ai-meeting-assistant&theme=tokyonight&hide_border=true)](https://github.com/mr-ducky-pilot)
+
 *Real-time transcription & AI-powered meeting automation using Llama 3.3 70B & Whisper Large v3*
 
 ### 🩻 Medical Imaging AI (ISRO) 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-ducky-pilot&repo=medical-imaging-ai&theme=tokyonight&hide_border=true)](https://github.com/mr-ducky-pilot)
+
 *X-Ray bone fracture detection with high accuracy using CNN & entropy-based validation*
 
 ### 📱 YellowShuttl (Blink42)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-ducky-pilot&repo=yellowshuttl&theme=tokyonight&hide_border=true)](https://github.com/mr-ducky-pilot)
+
 *Fleet management serving 600+ daily users with 68% reduction in wait times*
 
 ### 🧠 In-memoria (Blink42)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pi22by7&repo=In-Memoria&theme=tokyonight&hide_border=true)](https://github.com/pi22by7/In-Memoria)
-*Persistent memory for AI coding assistants via MCP - Solving session amnesia*
+*Persistent memory for AI coding assistants via MCP - Solving session amnesia for coding agents*
 
 </div>
 
