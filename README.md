@@ -71,7 +71,7 @@
 - 📚 **2 Published Research Papers** including GLEX 2025
 - 🏅 **Top 5 Finalist** at VTU Srushti-2022 (52 teams)
 
-## 📈 Current Projects @ Blink42
+## 📈 Current Projects am working on
 
 - 🔧 **[Reparo AI](https://reparo.blink42.com)** - Multi-modal AI assistant for repair businesses (Beta Launch)
 - 🛒 **SiBi** - AI-powered product recommendation platform (In Progress)
